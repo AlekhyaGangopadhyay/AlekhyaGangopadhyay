@@ -89,10 +89,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AlekhyaGangopadhyay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGangopadhyay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=AlekhyaGangopadhyay&theme=tokyonight&hide_border=true" height="150"/>
+</div>
 
-![Alekhya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlekhyaGangopadhyay&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGangopadhyay&layout=compact&theme=tokyonight&hide_border=true)
-
+<div align="center">
+Show Image
+"The best way to understand intelligence is to build it."
 </div>
 
 ---
