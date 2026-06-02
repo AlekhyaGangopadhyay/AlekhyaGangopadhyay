@@ -89,13 +89,22 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlekhyaGangopadhyay&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGangopadhyay&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top Languages"/>
-<br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=AlekhyaGangopadhyay&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+
+![](https://github-readme-stats.vercel.app/api?username=AlekhyaGangopadhyay&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekhyaGangopadhyay&theme=tokyonight&hide_border=true&layout=compact)
+
 </div>
 
+### 🔥 Contribution Graph
+
+![Alekhya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlekhyaGangopadhyay&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
 <div align="center">
-"The best way to understand intelligence is to build it."
+
+[![](https://visitcount.itsvg.in/api?id=AlekhyaGangopadhyay&icon=5&color=6)](https://visitcount.itsvg.in)
+
+*"The best way to understand intelligence is to build it."*
+
 </div>
