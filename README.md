@@ -18,7 +18,7 @@
 ## 💫 About Me
 
 - 🎓 **B.Tech CSE (AI & ML)** student at IEM, Kolkata — currently in 4th semester
-- 🔬 **Research Intern** at IEM-HCI Lab — working on EEG-based Brain-Computer Interfaces
+- 🔬 **Research Intern** at IEM-HCI Lab,IEM CEDS — working on EEG-based Brain-Computer Interfaces
 - 🚗 Building **VERGO** — an autonomous driving simulation pipeline on CARLA using B-Spline path planning
 - 🤖 Passionate about applied ML, neural signal processing, and human-computer interaction
 - 📊 Data analyst with a love for turning messy data into meaningful insights
